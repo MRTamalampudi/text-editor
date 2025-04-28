@@ -1,4 +1,6 @@
-<p align="center"><img src="./src/assets/no ai.png"/></p>
+
+<p align="center"> <b>🚫No AI used, 100% Handmade, thats why not able to satisfy full requirements in given time</b></p>
+<p align="center"> <b>Thanks team , its a very good learning project for me 😀</b></p> 
 
 ### Page Sample
 ![sample](./src/assets/sample.png)
